@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Entities>
+  <Entity Name="Folder Structure.atmx">
+    <Properties>
+      <Property Name="LastRunTime">05/10/2019 08:50:22</Property>
+      <Property Name="RunDuration">00:00:00</Property>
+      <Property Name="Status">Complete</Property>
+    </Properties>
+  </Entity>
+  <Entity Name="CODA TB Extract.atmx">
+    <Properties>
+      <Property Name="LastRunTime">05/10/2019 08:56:42</Property>
+      <Property Name="RunDuration">00:05:27</Property>
+      <Property Name="Status">Complete</Property>
+    </Properties>
+  </Entity>
+  <Entity Name="UK_Master_File.atmx">
+    <Properties>
+      <Property Name="LastRunTime">05/10/2019 09:12:49</Property>
+      <Property Name="RunDuration">00:22:33</Property>
+      <Property Name="Status">Complete</Property>
+    </Properties>
+  </Entity>
+  <Entity Name="UK_BankRec_Analysis.atmx">
+    <Properties>
+      <Property Name="LastRunTime">05/10/2019 09:12:47</Property>
+      <Property Name="RunDuration">00:16:04</Property>
+      <Property Name="Status">Complete</Property>
+    </Properties>
+  </Entity>
+  <Entity Name="SendEmail.atmx">
+    <Properties>
+      <Property Name="LastRunTime">05/10/2019 09:12:49</Property>
+      <Property Name="RunDuration">00:00:02</Property>
+      <Property Name="Status">Complete</Property>
+    </Properties>
+  </Entity>
+</Entities>

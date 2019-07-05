@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Entities>
+  <Entity Name="DepartmentName_ProcessName_MainTask.atmx">
+    <Properties>
+      <Property Name="LastRunTime">07/20/2018 17:20:33</Property>
+      <Property Name="RunDuration">00:00:21</Property>
+      <Property Name="Status">Complete</Property>
+    </Properties>
+  </Entity>
+  <Entity Name="DepartmentName_ProcessName_Activity.atmx">
+    <Properties>
+      <Property Name="LastRunTime">07/20/2018 17:20:33</Property>
+      <Property Name="RunDuration">00:00:12</Property>
+      <Property Name="Status">Complete</Property>
+    </Properties>
+  </Entity>
+  <Entity Name="DepartmentName_ProcessName_FolderStructure.atmx">
+    <Properties>
+      <Property Name="LastRunTime">07/20/2018 17:20:20</Property>
+      <Property Name="RunDuration">00:00:00</Property>
+      <Property Name="Status">Complete</Property>
+    </Properties>
+  </Entity>
+  <Entity Name="DepartmentName_ProcessName_CloseApp.atmx">
+    <Properties>
+      <Property Name="LastRunTime">07/20/2018 17:20:33</Property>
+      <Property Name="RunDuration">00:00:00</Property>
+      <Property Name="Status">Failed</Property>
+    </Properties>
+  </Entity>
+</Entities>

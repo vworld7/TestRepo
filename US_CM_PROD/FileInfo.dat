@@ -1,0 +1,101 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Entities>
+  <Entity Name="Aspen_CashMatchingUS.atmx">
+    <Properties>
+      <Property Name="VCSFileStatus">Locked</Property>
+      <Property Name="LastRunTime">05/28/2019 10:31:58</Property>
+      <Property Name="RunDuration">00:01:21</Property>
+      <Property Name="Status">Failed</Property>
+    </Properties>
+  </Entity>
+  <Entity Name="Aspen_InterCompanyJournal.atmx">
+    <Properties>
+      <Property Name="VCSFileStatus">Locked</Property>
+      <Property Name="LastRunTime">05/28/2019 10:30:34</Property>
+      <Property Name="RunDuration">00:00:23</Property>
+      <Property Name="Status">Complete</Property>
+    </Properties>
+  </Entity>
+  <Entity Name="Aspen_ExtractMasterSheetData_CashReceipt.atmx">
+    <Properties>
+      <Property Name="VCSFileStatus">Locked</Property>
+      <Property Name="LastRunTime">05/28/2019 10:30:07</Property>
+      <Property Name="RunDuration">00:00:04</Property>
+      <Property Name="Status">Complete</Property>
+    </Properties>
+  </Entity>
+  <Entity Name="Aspen_SendEmail.atmx">
+    <Properties>
+      <Property Name="VCSFileStatus">Locked</Property>
+      <Property Name="LastRunTime">05/28/2019 10:30:35</Property>
+      <Property Name="RunDuration">00:00:00</Property>
+      <Property Name="Status">Complete</Property>
+    </Properties>
+  </Entity>
+  <Entity Name="Aspen_Process_Initiation.atmx">
+    <Properties>
+      <Property Name="VCSFileStatus">Locked</Property>
+      <Property Name="LastRunTime">05/28/2019 10:30:00</Property>
+      <Property Name="RunDuration">00:00:00</Property>
+      <Property Name="Status">Complete</Property>
+    </Properties>
+  </Entity>
+  <Entity Name="Aspen_CreateFolderStructure.atmx">
+    <Properties>
+      <Property Name="VCSFileStatus">Locked</Property>
+      <Property Name="LastRunTime">05/28/2019 10:29:59</Property>
+      <Property Name="RunDuration">00:00:18</Property>
+      <Property Name="Status">Complete</Property>
+    </Properties>
+  </Entity>
+  <Entity Name="Aspen_MasterTask.atmx">
+    <Properties>
+      <Property Name="VCSFileStatus">Locked</Property>
+      <Property Name="LastRunTime">05/28/2019 10:31:58</Property>
+      <Property Name="RunDuration">00:02:17</Property>
+      <Property Name="Status">Failed</Property>
+    </Properties>
+  </Entity>
+  <Entity Name="Aspen_CheckReceiptUS.atmx">
+    <Properties>
+      <Property Name="VCSFileStatus">Locked</Property>
+    </Properties>
+  </Entity>
+  <Entity Name="Aspen_CODALogin.atmx">
+    <Properties>
+      <Property Name="VCSFileStatus">Locked</Property>
+      <Property Name="LastRunTime">05/28/2019 10:31:37</Property>
+      <Property Name="RunDuration">00:01:00</Property>
+      <Property Name="Status">Complete</Property>
+    </Properties>
+  </Entity>
+  <Entity Name="Aspen_InterCompanyPosting.atmx">
+    <Properties>
+      <Property Name="VCSFileStatus">Locked</Property>
+      <Property Name="LastRunTime">05/28/2019 10:30:33</Property>
+      <Property Name="RunDuration">00:00:00</Property>
+      <Property Name="Status">Complete</Property>
+    </Properties>
+  </Entity>
+  <Entity Name="Aspen_ExtractMasterSheetData_InterCompany.atmx">
+    <Properties>
+      <Property Name="VCSFileStatus">Locked</Property>
+      <Property Name="LastRunTime">05/28/2019 10:30:30</Property>
+      <Property Name="RunDuration">00:00:11</Property>
+      <Property Name="Status">Complete</Property>
+    </Properties>
+  </Entity>
+  <Entity Name="Aspen_FetchCHQR.atmx">
+    <Properties>
+      <Property Name="VCSFileStatus">Locked</Property>
+      <Property Name="LastRunTime">05/28/2019 10:30:19</Property>
+      <Property Name="RunDuration">00:00:05</Property>
+      <Property Name="Status">Complete</Property>
+    </Properties>
+  </Entity>
+  <Entity Name="Aspen_CashMatchingInterCompanyUS.atmx">
+    <Properties>
+      <Property Name="VCSFileStatus">Locked</Property>
+    </Properties>
+  </Entity>
+</Entities>

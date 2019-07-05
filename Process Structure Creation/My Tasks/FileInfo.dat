@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Entities>
+  <Entity Name="MASTER BOT.atmx">
+    <Properties>
+      <Property Name="LastRunTime">09/17/2018 20:44:19</Property>
+      <Property Name="RunDuration">00:00:14</Property>
+      <Property Name="Status">Failed</Property>
+    </Properties>
+  </Entity>
+  <Entity Name="Process Structure Creation.atmx">
+    <Properties>
+      <Property Name="LastRunTime">09/18/2018 18:08:03</Property>
+      <Property Name="RunDuration">00:00:14</Property>
+      <Property Name="Status">Failed</Property>
+    </Properties>
+  </Entity>
+</Entities>
